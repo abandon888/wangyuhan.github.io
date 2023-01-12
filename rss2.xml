@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>宇闲居</title>
+    <link>https://abandon888.github.io/wangyuhan.github.io/</link>
+    
+    <atom:link href="https://abandon888.github.io/wangyuhan.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>这是一个尚在开放的新博客</description>
+    <pubDate>Thu, 12 Jan 2023 13:37:34 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>新网站！！！</title>
+      <link>https://abandon888.github.io/wangyuhan.github.io/2023/01/12/%E6%96%B0%E7%BD%91%E7%AB%99%EF%BC%81/</link>
+      <guid>https://abandon888.github.io/wangyuhan.github.io/2023/01/12/%E6%96%B0%E7%BD%91%E7%AB%99%EF%BC%81/</guid>
+      <pubDate>Thu, 12 Jan 2023 09:29:16 GMT</pubDate>
+      
+      <description>&lt;p&gt;新网站终于搭建好了，这是宇闲居建立的第一天:tada:（也希望不要是最后一天 :cry:)&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>新网站终于搭建好了，这是宇闲居建立的第一天:tada:（也希望不要是最后一天 :cry:)</p><span id="more"></span><p>尝试几个新功能</p><p>要做出好看的页面也不简单啊</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean   #清除缓存文件 db.json 和已生成的静态文件 public</span><br><span class="line">hexo g       #生成网站静态文件到默认设置的 public 文件夹(hexo generate 的缩写)</span><br><span class="line">hexo d       #自动生成网站静态文件，并部署到设定的仓库(hexo deploy 的缩写)</span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
+      
+      <category domain="https://abandon888.github.io/wangyuhan.github.io/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      
+      
+      <category domain="https://abandon888.github.io/wangyuhan.github.io/tags/%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3/">网站相关</category>
+      
+      
+      <comments>https://abandon888.github.io/wangyuhan.github.io/2023/01/12/%E6%96%B0%E7%BD%91%E7%AB%99%EF%BC%81/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
